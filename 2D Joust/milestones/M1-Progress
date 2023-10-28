@@ -1,0 +1,31 @@
+Record your M1 progress (Date, Who, What has been done):
+
+10/24/2022
+2-2:50 PM
+John, Cameron, Ishaan attended
+
+1)We tested and learned about merge conflicts, pushing, committing, and pulling. 
+2)We made initial classes needed for M1: Character, GameAdvanceListener, GameComponent, MainApp, Level
+3)We started to add the initial level in the level class, starting with easy test levels
+
+10/25/2022
+2:35-2:50 PM
+John, Cameron, Ishaan attended
+
+1)Continued working on the initial level
+
+10/26/2022
+5:00 - 6:00 PM
+John, Ishaan attended
+
+1) Worked on the hero class
+2) got the initial level to load
+3) Game components working
+4) hero doesn't update
+
+10/27/2022
+2:30 - 2:45 PM
+John, Cameron, Ishaan attended
+
+1) Fixed the hero not moving problem. Hero now moves
+2) Fixed path in eclipse error

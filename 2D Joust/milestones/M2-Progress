@@ -1,0 +1,27 @@
+Record your M2 progress (Date, Who, What has been done):
+
+10/30/22
+Ishaan
+
+1) refactor and organize M1 code
+2) create an AbstractCharacter EnemyList for easy future implementations
+
+10/31/22
+2 PM
+Ishaan, Cam, John attended
+1) Made classes for easy, medium, and hard enemies
+2) Passed color and velocity into enemies to create different enemies
+
+11/1/22
+1:50 PM
+Ishaan, Cam, John attended
+1) Added a new custom exception
+
+
+
+Things to do next:
+
+1) Make multiple platforms
+2) Implement collisions so that sprites connot go through platforms
+3) Create a lives counter that decrements with collisions with enemies
+4) Egg drop
